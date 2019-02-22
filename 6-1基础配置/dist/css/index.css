@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: yellowgreen;
+}
+body #app {
+  text-align: center;
+  line-height: 60px;
+  font-size: 50px;
+  background: #cb6af1; }
+
+body .img1 {
+  height: 200px;
+  background: url(file:///Users/wangwei/Desktop/webpack/6-1基础配置/dist/ea1eb4525b9500086ca284d2dfbbe3b0.jpg) no-repeat;
+  background-size: 100% 100%; }
+
+body p {
+  -webkit-transform: rotate(90deg);
+          transform: rotate(90deg);
+  background: #9054ff; }
+
+body .img2 {
+  height: 50px; }
+  body .img2 img {
+    display: inline-block;
+    width: auto;
+    height: 100%; }
+

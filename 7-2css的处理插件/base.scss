@@ -1,0 +1,10 @@
+@import './_function.scss';
+
+html,body{
+  margin: 0;
+  padding: 0;
+}
+body{
+  min-height: px2rem(200);
+  background: #999;
+}

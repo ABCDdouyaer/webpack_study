@@ -1,0 +1,25 @@
+html, body, div {
+  margin: 0;
+  padding: 0; }
+
+.base-1HinW {
+  height: 295px;
+  background: url(../images/d9ffbd75782e43c76a5b3dcc0d2a614d.jpg) no-repeat;
+  background-size: 100% auto; }
+
+.base-1hVKy {
+  display: flex;
+  justify-content: center; }
+  .base-1hVKy div {
+    width: 40px;
+    height: 40px; }
+  .base-1hVKy :nth-child(1) {
+    background: url(../images/92baa2b99737cd5b1bfa6eb0e8ff28a7.png) no-repeat;
+    background-size: 100% 100%; }
+  .base-1hVKy :nth-child(2) {
+    background: url(../images/4c56e5c9a0455bdbea6ee9ee8ca1c3df.png) no-repeat;
+    background-size: 100% 100%; }
+  .base-1hVKy :nth-child(3) {
+    background: url(../images/f69a1397fa8f724278c754bb578f1014.png) no-repeat;
+    background-size: 100% 100%; }
+

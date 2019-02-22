@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "custom-week": "/components/week/week"
+  }
+}

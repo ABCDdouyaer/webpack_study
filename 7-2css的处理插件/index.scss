@@ -1,0 +1,35 @@
+@import './base.scss';
+
+
+$div_bg: yellowgreen;
+$p_bg:green;
+$name: box;
+
+
+
+div.#{$name}{
+  min-height: px2rem(50);
+  color:blue;
+  background: yellowgreen;
+  p{
+    min-height: px2rem(30);
+    background: green;
+  }
+  h2{
+    color:magenta;
+  }
+  .imgBox{
+    height: px2rem(160);
+    background: url('./1.jpg') no-repeat;
+    background-size: 100% 100%;
+  }
+}
+
+
+::placeholder {
+  color: gray;
+}
+
+:global(.title){
+  font-size: px2rem(28);
+}

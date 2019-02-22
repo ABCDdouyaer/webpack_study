@@ -1,0 +1,23 @@
+{
+  "presets": [
+
+    ["env", {
+      "targets": {
+         "uglify": true,
+         "node": "current",
+         "chrome": 52
+      },
+      "modules": "commonjs",
+      "debug": true,
+      "loose": true
+    }],
+
+    "stage-2",
+    "react"
+
+  ],
+  "plugins": [
+    "transform-runtime",
+    "transform-es2015-classes"
+  ]
+}
