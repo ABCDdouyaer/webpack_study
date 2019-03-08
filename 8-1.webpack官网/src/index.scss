@@ -1,0 +1,27 @@
+h1{
+  line-height: 200px;
+  background: url('../assets/img/banner.jpg') no-repeat;
+  background-size: 100% 100%;
+}
+
+body{
+    #app{
+      text-align: center;
+      line-height: 60px;
+      font-size: 50px;
+      background: rgb(203, 106, 241);
+    }
+    p{
+      transform: rotate(90deg);
+      background: rgb(144, 84, 255);
+    }
+    .img2{
+      height: 50px;
+      img{
+        display: inline-block;
+        width: auto;
+        height: 100%;
+      }
+    }
+  }
+  

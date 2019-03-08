@@ -1,0 +1,1 @@
+$('body').append('<h1>hello webpack, is home.js</h1>');
